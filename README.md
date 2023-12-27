@@ -12,7 +12,7 @@ Connect with me on social media:
 ## Skills Summary
 
 ### Programming Languages
-- ![Java](insert_java_image_url_here) 
+- ![Java]([https://staging.svgrepo.com/show/184143/java.svg]) 
 - ![JavaScript](insert_js_image_url_here) 
 - ![TypeScript](insert_ts_image_url_here) 
 - ![SQL](insert_sql_image_url_here) 
