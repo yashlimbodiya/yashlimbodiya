@@ -5,21 +5,9 @@
 I am an enthusiastic software engineer currently pursuing a master’s degree in Software Engineering Systems at Northeastern University. With 2 years of hands-on experience, I thrive in a cross-functional team environment, contributing to the development of user-facing product features. I am a firm believer in continuous learning and exploration.
 
 Connect with me  on social media 👋:
-- **Gmail:** [yash.lim07@gmail.com](mailto:yash.lim07@gmail.com)
-
-<p align="left">
-<a href="https://linkedin.com/in/yashlimbodiya" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashlimbodiya" height="30" width="40" />
-</a>
-<img width="12" />
-<a href="https://instagram.com/yashlimbodiya" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashlimbodiya" height="30" width="40" />
-</a>
-<img width="12" />
-<a href="https://www.behance.net/yashlimbodiya" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yashlimbodiya" height="30" width="40" />
-</a>
-</p>
+- **Gmail     :** [yash.lim07@gmail.com](mailto:yash.lim07@gmail.com)
+- **LinkedIn  :** [Yash Limbodiya](https://www.linkedin.com/in/yashlimbodiya)
+- **Behance   :** [Yash Limbodiya on Behance](https://www.behance.net/yashlimbodiya)
 
 ## 🎲 Skills Summary 🎲
 
@@ -107,7 +95,7 @@ Connect with me  on social media 👋:
 
 ###
 
-## My Projects
+## 📚 My Projects 📚
 
 ### Centwise 
 Centwise is a collaborative expense-tracking and bill-splitting application. It is designed to simplify financial interactions among friends, roommates, or colleagues. It helps users keep track of shared expenses and settle debts effortlessly.
@@ -125,6 +113,7 @@ Feel free to explore my projects and connect with me on [LinkedIn](https://www.l
 
 
 # <h3 align="center">Thank you for visiting</h3>
+
 
 
 
