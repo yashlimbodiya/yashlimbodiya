@@ -1,67 +1,39 @@
-Yash Limbodiya - Software Engineer
+<h1 align="left">Hey 👋 What's up?</h1>
 
-About Me
-I am an enthusiastic software engineer currently pursuing a master’s degree in Software Engineering Systems at Northeastern University. With 2 years of hands-on experience, I thrive in a cross-functional team environment, contributing to the development of user-facing product features. I am a firm believer in continuous learning and exploration.
+###
 
-Connect with me on social media:
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-Gmail: yash.lim07@gmail.com
-LinkedIn: Yash Limbodiya
-Behance: Yash Limbodiya on Behance
-Skills Summary
-Programming Languages
-JAVA
-JavaScript
-TypeScript
-SQL
-SOQL
-Python
-Apex
-Web Development
-React
-Angular
-HTML
-CSS
-SCSS
-jQuery
-RESTful APIs
-AJAX
-Frameworks
-Express.js
-Node.js
-Spring MVC
-Spring Boot
-Hibernate
-Aura Component
-Lightning Web Component
-Database Management
-MySQL (Relational Database)
-MongoDB (NoSQL)
-Tools
-Git (Version Control)
-GitHub
-MySQL Workbench
-MongoDB Compass
-Salesforce CRM (Certified Platform 1 Developer)
-Jenkins
-Bitbucket
-VS Code
-Adobe Illustrator
-Adobe XD
-Salesforce’s Workbench
-Agile
-My Projects
-Centwise
+###
 
-Centwise is a project that showcases my skills in [insert a brief description of the project].
+<h2 align="left">About me</h2>
 
-Check out Centwise
+###
 
-ShowSprint
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-ShowSprint is a Movie Ticket Booking System where I [insert a brief description of the project].
+###
 
-Check out ShowSprint
+<h2 align="left">I code with</h2>
 
-Let's Connect!
-Feel free to explore my projects and connect with me on LinkedIn. I am open to collaborations and always excited about new opportunities in the world of software engineering. Let's build something amazing together! 😊
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
