@@ -1,4 +1,3 @@
-# Yash Limbodiya - Software Engineer
 
 <img src="./images//Black Technology LinkedIn Banner.png" alt="java logo"  />
 
