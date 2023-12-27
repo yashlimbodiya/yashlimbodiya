@@ -1,5 +1,7 @@
 # Yash Limbodiya - Software Engineer
 
+<img src="./images//Black Technology LinkedIn Banner.png" alt="java logo"  />
+
 ## ✨ About Me ✨
 
 I am an enthusiastic software engineer currently pursuing a master’s degree in Software Engineering Systems at Northeastern University. With 2 years of hands-on experience, I thrive in a cross-functional team environment, contributing to the development of user-facing product features. I am a firm believer in continuous learning and exploration.
