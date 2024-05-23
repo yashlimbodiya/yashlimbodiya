@@ -94,20 +94,6 @@ Connect with me  on social media 👋:
   <img width="12" />
 </div>
 
-###
-
-## 📚 My Projects 📚
-
-### Centwise 
-Centwise is a collaborative expense-tracking and bill-splitting application built using the MERN stack. It is designed to simplify financial interactions among friends, roommates, or colleagues. It helps users keep track of shared expenses and settle debts effortlessly.
-
-[Check out Centwise](https://github.com/yashlimbodiya/Centwise)
-
-### ShowSprint
-ShowSprint is a Movie Ticket Booking System built using Java 8, and MySQL.
-
-[Check out ShowSprint](https://github.com/yashlimbodiya/MovieTicketBookingSystem)
-
 ## Let's Connect!
 
 Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/yashlimbodiya). I am open to collaborations and always excited about new opportunities in the world of software engineering. Let's build something amazing together! 😊
